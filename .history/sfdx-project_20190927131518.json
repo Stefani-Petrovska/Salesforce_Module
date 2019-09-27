@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "C:\\Users\\Stefani.Petrovska\\Documents\\Seavus\\Salesforce\\Visual studio code projects\\VSCodeQuickstart\\Salesforce_Module\\Salesforce_Module-1\\force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "46.0"
+}
